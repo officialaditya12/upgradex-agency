@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 // - Image URLs from cloud storage (Google Drive, Dropbox, etc.)
 const images = [
   {
-    url: "https://experienced-harlequin-phaujqqopi-g14nmvz5p7.edgeone.app/Sophisticated%20Gradient%20Banner%20with%20Tagline%20%281%29.png",
+    url: "https://img.sanishtech.com/u/5897e0a0c665f4315b956a4141e500cb.png",
     alt: "UpgradeX Agency - Elevating Brands, Innovating Futures",
   },
   {
